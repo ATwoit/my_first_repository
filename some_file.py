@@ -7,7 +7,7 @@ API_URL: str = 'https://api.telegram.org/bot'
 API_CATS_URL: str = 'https://api.thecatapi.com/v1/images/search'
 API_DOGS_URL: str = 'https://random.dog/woof.json'
 API_FOXS_URL: str = 'https://randomfox.ca/floof/'
-BOT_TOKEN: str = '7435609569:AAFkSp61Q5iE4kxSnPea1z3SEhxKqIkofD8'
+BOT_TOKEN: str = 'Здесь должен быть ваш токен'
 ERROR_TEXT: str = 'Здесь должны быть фотки животных'
 UNKNOWN_COMMAND_TEXT: str = 'Я не знаю такого животного. Напишите "кот", "собака" или "лиса".'
 
