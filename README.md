@@ -19,4 +19,8 @@ You can also use other APIs on different sites.
 
 ## First bot used. Bot Father
 ---
-Here is the link to this bot - [![links](https://github.com/ATwoit/my_first_repository/blob/main/assets/KsajCZY9_400x400.jpg)](https://telegram.me/BotFather)
+<div align="center">
+    <a href="https://telegram.me/BotFather">
+        <img src="assets/A_small,_pixel-art_resized_image.png" alt="Описание изображения" width="128">
+    </a>
+</div>
